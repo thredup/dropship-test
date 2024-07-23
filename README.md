@@ -1,6 +1,6 @@
 # dropshipping-test
 
-We have defined events and processor__
+We have defined events and processor<br />
 In main class present sequential processing of events
 
 ## V1 updates
