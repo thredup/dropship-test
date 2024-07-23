@@ -1,7 +1,7 @@
 # dropshipping-test
 
-We have defined events and processor for them
-In main class present sequential proccesing of them events
+We have defined events and processor__
+In main class present sequential processing of events
 
 ## V1 updates
 - Pre-condition for event
